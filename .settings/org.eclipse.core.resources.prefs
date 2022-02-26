@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+<<<<<<< HEAD
+encoding//src/main/webapp/good.jsp=UTF-8
+encoding//src/main/webapp/register.jsp=UTF-8
+encoding//src/main/webapp/registerSuccess.jsp=UTF-8
+encoding//src/main/webapp/shop.jsp=UTF-8
+=======
+encoding//src/main/java/com/nypro/servlet/FilterServlet.java=UTF-8
+encoding//src/main/java/com/nypro/servlet/GoodsServlet.java=UTF-8
+encoding//src/main/java/com/nypro/servlet/IndexServlet.java=UTF-8
+>>>>>>> b126ee5824c60c5d92686732eea7e2d48ed65073
